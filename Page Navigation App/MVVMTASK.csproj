@@ -1,0 +1,261 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <RootNamespace>Page_Navigation_App</RootNamespace>
+    <Nullable>disable</Nullable>
+    <UseWPF>true</UseWPF>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Assets\Background.png" />
+    <None Remove="Assets\Block-Empty.png" />
+    <None Remove="Assets\Block-I.png" />
+    <None Remove="Assets\Block-J.png" />
+    <None Remove="Assets\Block-L.png" />
+    <None Remove="Assets\Block-O.png" />
+    <None Remove="Assets\Block-S.png" />
+    <None Remove="Assets\Block-T.png" />
+    <None Remove="Assets\Block-Z.png" />
+    <None Remove="Assets\gamephoto.jpg" />
+    <None Remove="Assets\Grid.png" />
+    <None Remove="Assets\Icon.ico" />
+    <None Remove="Assets\O0.png" />
+    <None Remove="Assets\O1.png" />
+    <None Remove="Assets\O10.png" />
+    <None Remove="Assets\O11.png" />
+    <None Remove="Assets\O12.png" />
+    <None Remove="Assets\O13.png" />
+    <None Remove="Assets\O14.png" />
+    <None Remove="Assets\O15.png" />
+    <None Remove="Assets\O2.png" />
+    <None Remove="Assets\O3.png" />
+    <None Remove="Assets\O4.png" />
+    <None Remove="Assets\O5.png" />
+    <None Remove="Assets\O6.png" />
+    <None Remove="Assets\O7.png" />
+    <None Remove="Assets\O8.png" />
+    <None Remove="Assets\O9.png" />
+    <None Remove="Assets\TileBlue.png" />
+    <None Remove="Assets\TileCyan.png" />
+    <None Remove="Assets\TileEmpty.png" />
+    <None Remove="Assets\TileGreen.png" />
+    <None Remove="Assets\TileOrange.png" />
+    <None Remove="Assets\TilePurple.png" />
+    <None Remove="Assets\TileRed.png" />
+    <None Remove="Assets\TileYellow.png" />
+    <None Remove="Assets\X0.png" />
+    <None Remove="Assets\X1.png" />
+    <None Remove="Assets\X10.png" />
+    <None Remove="Assets\X11.png" />
+    <None Remove="Assets\X12.png" />
+    <None Remove="Assets\X13.png" />
+    <None Remove="Assets\X14.png" />
+    <None Remove="Assets\X15.png" />
+    <None Remove="Assets\X2.png" />
+    <None Remove="Assets\X3.png" />
+    <None Remove="Assets\X4.png" />
+    <None Remove="Assets\X5.png" />
+    <None Remove="Assets\X6.png" />
+    <None Remove="Assets\X7.png" />
+    <None Remove="Assets\X8.png" />
+    <None Remove="Assets\X9.png" />
+    <None Remove="Fonts\Rubik-Medium.ttf" />
+    <None Remove="Fonts\Rubik-Regular.ttf" />
+    <None Remove="Images\1.jpg" />
+    <None Remove="Images\2.jpg" />
+    <None Remove="Images\223.jpg" />
+    <None Remove="Images\3.jpg" />
+    <None Remove="Images\4.jpg" />
+    <None Remove="Images\5.jpg" />
+    <None Remove="Images\6.jpg" />
+    <None Remove="Images\7.jpg" />
+    <None Remove="Images\bg.jpg" />
+    <None Remove="Images\BG2.jpg" />
+    <None Remove="Images\BG4.jpg" />
+    <None Remove="Images\Board.jpg" />
+    <None Remove="Images\Body.png" />
+    <None Remove="Images\clipboard.jpg" />
+    <None Remove="Images\customer_page.png" />
+    <None Remove="Images\DeadBody.png" />
+    <None Remove="Images\DeadHead.png" />
+    <None Remove="Images\Empty.png" />
+    <None Remove="Images\Food.png" />
+    <None Remove="Images\games.jpg" />
+    <None Remove="Images\Head.png" />
+    <None Remove="Images\home_page.png" />
+    <None Remove="Images\ICONITI.ico" />
+    <None Remove="Images\img_customer.png" />
+    <None Remove="Images\img_home.png" />
+    <None Remove="Images\img_order.png" />
+    <None Remove="Images\img_product.png" />
+    <None Remove="Images\img_setting.png" />
+    <None Remove="Images\img_shipment.png" />
+    <None Remove="Images\img_transaction.png" />
+    <None Remove="Images\iti.jpg" />
+    <None Remove="Images\iti2.jpg" />
+    <None Remove="Images\order_page.png" />
+    <None Remove="Images\product_page.png" />
+    <None Remove="Images\setting_page.png" />
+    <None Remove="Images\shipment_page.png" />
+    <None Remove="Images\shutdown_def.png" />
+    <None Remove="Images\shutdown_mo.png" />
+    <None Remove="Images\transaction_page.png" />
+    <None Remove="Images\u3.jpg" />
+    <None Remove="Images\ui.jpg" />
+    <None Remove="Images\ui2.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Assets\Background.png" />
+    <Resource Include="Assets\Block-Empty.png" />
+    <Resource Include="Assets\Block-I.png" />
+    <Resource Include="Assets\Block-J.png" />
+    <Resource Include="Assets\Block-L.png" />
+    <Resource Include="Assets\Block-O.png" />
+    <Resource Include="Assets\Block-S.png" />
+    <Resource Include="Assets\Block-T.png" />
+    <Resource Include="Assets\Block-Z.png" />
+    <Resource Include="Assets\gamephoto.jpg" />
+    <Resource Include="Assets\Grid.png" />
+    <Resource Include="Assets\Icon.ico" />
+    <Resource Include="Assets\O0.png" />
+    <Resource Include="Assets\O1.png" />
+    <Resource Include="Assets\O10.png" />
+    <Resource Include="Assets\O11.png" />
+    <Resource Include="Assets\O12.png" />
+    <Resource Include="Assets\O13.png" />
+    <Resource Include="Assets\O14.png" />
+    <Resource Include="Assets\O15.png" />
+    <Resource Include="Assets\O2.png" />
+    <Resource Include="Assets\O3.png" />
+    <Resource Include="Assets\O4.png" />
+    <Resource Include="Assets\O5.png" />
+    <Resource Include="Assets\O6.png" />
+    <Resource Include="Assets\O7.png" />
+    <Resource Include="Assets\O8.png" />
+    <Resource Include="Assets\O9.png" />
+    <Resource Include="Assets\TileBlue.png" />
+    <Resource Include="Assets\TileCyan.png" />
+    <Resource Include="Assets\TileEmpty.png" />
+    <Resource Include="Assets\TileGreen.png" />
+    <Resource Include="Assets\TileOrange.png" />
+    <Resource Include="Assets\TilePurple.png" />
+    <Resource Include="Assets\TileRed.png" />
+    <Resource Include="Assets\TileYellow.png" />
+    <Resource Include="Assets\X0.png" />
+    <Resource Include="Assets\X1.png" />
+    <Resource Include="Assets\X10.png" />
+    <Resource Include="Assets\X11.png" />
+    <Resource Include="Assets\X12.png" />
+    <Resource Include="Assets\X13.png" />
+    <Resource Include="Assets\X14.png" />
+    <Resource Include="Assets\X15.png" />
+    <Resource Include="Assets\X2.png" />
+    <Resource Include="Assets\X3.png" />
+    <Resource Include="Assets\X4.png" />
+    <Resource Include="Assets\X5.png" />
+    <Resource Include="Assets\X6.png" />
+    <Resource Include="Assets\X7.png" />
+    <Resource Include="Assets\X8.png" />
+    <Resource Include="Assets\X9.png" />
+    <Resource Include="Fonts\Rubik-Medium.ttf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Fonts\Rubik-Regular.ttf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\1.jpg" />
+    <Resource Include="Images\2.jpg" />
+    <Resource Include="Images\223.jpg" />
+    <Resource Include="Images\3.jpg" />
+    <Resource Include="Images\4.jpg" />
+    <Resource Include="Images\5.jpg" />
+    <Resource Include="Images\6.jpg" />
+    <Resource Include="Images\7.jpg" />
+    <Resource Include="Images\bg.jpg" />
+    <Resource Include="Images\BG2.jpg" />
+    <Resource Include="Images\BG4.jpg" />
+    <Resource Include="Images\Board.jpg" />
+    <Resource Include="Images\Body.png" />
+    <Resource Include="Images\clipboard.jpg" />
+    <Resource Include="Images\DeadBody.png" />
+    <Resource Include="Images\DeadHead.png" />
+    <Resource Include="Images\Empty.png" />
+    <Resource Include="Images\Food.png" />
+    <Resource Include="Images\games.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\Head.png" />
+    <Resource Include="Images\ICONITI.ico" />
+    <Resource Include="Images\iti.jpg" />
+    <Resource Include="Images\iti2.jpg" />
+    <Resource Include="Images\u3.jpg" />
+    <Resource Include="Images\ui.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\ui2.jpg" />
+    <Resource Include="Images\customer_page.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\home_page.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\img_customer.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\img_home.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\img_order.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\img_product.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\img_setting.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\img_shipment.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\img_transaction.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\order_page.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\product_page.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\setting_page.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\shipment_page.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\shutdown_def.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\shutdown_mo.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\transaction_page.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MahApps.Metro" Version="2.4.9" />
+    <PackageReference Include="MahApps.Metro.IconPacks" Version="4.11.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Page Update="XO.xaml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Page>
+  </ItemGroup>
+
+</Project>

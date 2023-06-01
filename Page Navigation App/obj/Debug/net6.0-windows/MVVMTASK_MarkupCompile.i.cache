@@ -1,0 +1,20 @@
+﻿MVVMTASK
+1.0.0.0
+
+winexe
+C#
+.cs
+D:\ITI\MVVM_Projects\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\
+Page_Navigation_App
+none
+false
+TRACE;DEBUG;NET;NET6_0;NETCOREAPP
+D:\ITI\MVVM_Projects\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\App.xaml
+17-1454395373
+
+491897184661
+230-237669187
+Snake.xaml;Styles\Button.xaml;Styles\Image.xaml;Styles\Page.xaml;Styles\Text.xaml;Tetris.xaml;Utilities\DataTemplate.xaml;View\DonutSpinner.xaml;View\Entry.xaml;View\Game.xaml;View\Home.xaml;View\MainWindow.xaml;View\SubjectDetailsWindow.xaml;View\SubjectView.xaml;View\Teacher.xaml;View\TeacherAddWindow.xaml;XO.xaml;
+
+False
+

@@ -1,0 +1,64 @@
+﻿<UserControl x:Class="Page_Navigation_App.View.Teacher"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:vm="clr-namespace:Page_Navigation_App.ViewModel"
+             xmlns:local="clr-namespace:Page_Navigation_App.View"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800"
+             Background="Transparent"
+             WindowChrome.IsHitTestVisibleInChrome="True">
+    <UserControl.DataContext>
+        <vm:TeachersVM/>
+    </UserControl.DataContext>
+    <Grid>
+        <Image Source="/Images/Board.jpg" Stretch="Fill" Opacity="0.7"/>
+        <Border>
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="auto"/>
+                    <RowDefinition/>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+                
+                <TextBlock Style="{StaticResource MahApps.Styles.TextBlock.AutoCollapsing}" Foreground="Wheat" Text="Teachers Table" FontSize="20" FontWeight="Bold" HorizontalAlignment="Center" Margin="0,34,0,6"/>
+
+                <ListView x:Name="ListBox" Grid.Row="1" ItemsSource="{Binding Teachers}" Margin="60" HorizontalContentAlignment="Stretch" ScrollViewer.VerticalScrollBarVisibility="Auto" Background="Transparent" SelectedItem="{Binding SelectedTeacher}">
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <Grid Margin="0 10" Background="Transparent">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition/>
+                                    <ColumnDefinition/>
+                                    <ColumnDefinition/>
+                                    <ColumnDefinition/>
+                                    <ColumnDefinition/>
+                                    <ColumnDefinition/>
+                                </Grid.ColumnDefinitions>
+                                <Grid.RowDefinitions>
+                                    <RowDefinition/>
+                                </Grid.RowDefinitions>
+
+                                <Image Source="{Binding Img}" Grid.Column="0" Width="50" Height="50" Margin="5"/>
+
+                                <TextBlock Text="{Binding Id, StringFormat='Id={0}'}" Grid.Column="2" Foreground="Black"/>
+                                <TextBlock Text="{Binding Name, StringFormat='Name={0}'}" Grid.Column="1" FontWeight="Bold"/>
+                                <TextBlock Text="{Binding Rate, StringFormat='Rate={0}'}" Grid.Column="3" Foreground="Black"/>
+                                <TextBlock Text="{Binding Age, StringFormat='Age={0}'}" Grid.Column="4" Foreground="Black"/>
+                                <TextBlock Text="{Binding Mobile, StringFormat='Mobile={0}'}" Grid.Column="5" Foreground="Black"/>
+                            </Grid>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+
+                <StackPanel Grid.Row="2" Orientation="Horizontal" HorizontalAlignment="Center" Margin="0 20">
+                    <Button Background="Wheat" Style="{StaticResource MahApps.Styles.Button.Dialogs}" Content="Add Teacher" Margin="10" Command="{Binding AddTeacherCommand}"/>
+                    <Button Background="Wheat" Style="{StaticResource MahApps.Styles.Button.Dialogs}" Content="Delete Teacher" Margin="10" Command="{Binding DeleteTeacherCommand}"/>
+
+
+                </StackPanel>
+            </Grid>
+        </Border>
+    </Grid>
+</UserControl>

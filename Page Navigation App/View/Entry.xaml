@@ -1,0 +1,201 @@
+﻿<Window x:Class="Page_Navigation_App.View.Entry"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Page_Navigation_App.View"
+        xmlns:ut="clr-namespace:Page_Navigation_App.Utilities"
+        xmlns:pr="clr-namespace:Page_Navigation_App"
+        mc:Ignorable="d"
+        Title="Entry" Height="700" Width="1200"
+        ResizeMode="NoResize"
+        WindowStartupLocation="CenterScreen"
+        WindowStyle="None"
+        Background="Transparent"
+        AllowsTransparency="True"
+        Icon="/Images/ICONITI.ICO"
+        >
+    <Window.Resources>
+        <ImageBrush x:Key="BackgroundBrush" ImageSource="/Images/ui2.jpg" />
+    </Window.Resources>
+    <Grid Background="{StaticResource BackgroundBrush}">
+
+        <!--#region GridDefinitions -->
+        <Grid.RowDefinitions>
+            <RowDefinition Height="25"></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <!--#endregion-->
+
+        <!--#region WindowBar -->
+        <Grid Background="#0f0f2d"
+              Grid.ColumnSpan="2">
+
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+
+
+
+            <Grid Margin="37,538,155,-636" Grid.Column="2" Grid.ColumnSpan="3">
+                <pr:DonutSpinner x:Name="donutSpinnerControl" Height="120" Width="40" Margin="114,26,-23,-23" Duration="0:0:2" SpinnerColor="#2196F3" RenderTransformOrigin="-3.443,0.571" Visibility="Collapsed"/>
+
+
+
+            </Grid>
+
+
+
+
+            <Grid>
+                <TextBlock Text ="Madeby:Mohamed Etman"
+                       Foreground="LightGray"
+                       Grid.Column="0"
+                       Grid.ColumnSpan="2"
+                       VerticalAlignment="Center"
+                       HorizontalAlignment="Center"
+                       FontFamily="Fonts/#Dosis"
+                       FontWeight="Medium">
+
+                </TextBlock>
+
+            </Grid>
+
+        </Grid>
+        <!--#endregion-->
+
+        <!--#region Buttons -->
+
+        <Button Grid.Column="0"
+        Grid.Row="10"
+        HorizontalAlignment="Left"
+        VerticalAlignment="Top"
+        Content="Next"
+                Click="Button_Click"
+        Foreground="White"
+        Background="#073e96"
+        BorderBrush="#2196F3"
+        FontSize="14"
+        FontWeight="Bold"
+        Padding="10,5"
+        Height="40"
+        Width="80" Margin="197,27,0,0" Grid.RowSpan="2">
+            <Button.Template>
+                <ControlTemplate TargetType="Button">
+                    <Grid>
+                        <Border x:Name="border"
+                        Background="{TemplateBinding Background}"
+                        BorderBrush="{TemplateBinding BorderBrush}"
+                        BorderThickness="1"
+                        CornerRadius="4">
+                            <ContentPresenter x:Name="contentPresenter"
+                                      Content="{TemplateBinding Content}"
+                                      HorizontalAlignment="Center"
+                                      VerticalAlignment="Center"
+                                      Margin="2,0,2,0"/>
+                        </Border>
+                    </Grid>
+                    <ControlTemplate.Triggers>
+                        <Trigger Property="IsMouseOver" Value="True">
+                            <Setter TargetName="border" Property="Background" Value="#1976D2"/>
+                            <Setter TargetName="border" Property="BorderBrush" Value="#1976D2"/>
+                        </Trigger>
+                        <Trigger Property="IsPressed" Value="True">
+                            <Setter TargetName="border" Property="Background" Value="#0D47A1"/>
+                            <Setter TargetName="border" Property="BorderBrush" Value="#0D47A1"/>
+                        </Trigger>
+                        <Trigger Property="IsEnabled" Value="False">
+                            <Setter TargetName="border" Property="Opacity" Value="0.5"/>
+                            <Setter TargetName="contentPresenter" Property="Opacity" Value="0.5"/>
+                        </Trigger>
+                    </ControlTemplate.Triggers>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+
+        <Button Grid.Column="1"
+                x:Name="CloseApp"
+                Style="{StaticResource ExitApp}"
+                Click="CloseApp_Click" Margin="553,-6,0,0" HorizontalAlignment="Left" Grid.RowSpan="2" />
+
+
+
+        <Grid Grid.Row="5"
+              Grid.Column="0"
+              Grid.RowSpan="2"
+              Grid.ColumnSpan="2"
+              HorizontalAlignment="Center"
+              VerticalAlignment="Center">
+            <Image Grid.Column="0"
+                   
+                   
+                   VerticalAlignment="Center"
+                   HorizontalAlignment="Center"
+                   Height="600"
+                   Width="1200"
+                   Source="/Images/newc.jpg"/>
+        </Grid>
+
+
+        <!--#region Render -->
+        <!--<Grid Grid.Column="1"
+                  Grid.Row="9"
+                    Grid.RowSpan="3">
+            <Grid.RenderTransform>
+                <RotateTransform Angle="00"/>
+            </Grid.RenderTransform>-->
+
+        <!--<StackPanel Orientation="Horizontal" VerticalAlignment="Bottom">-->
+        <!--<StackPanel>
+
+                    -->
+        <!--<Border 
+                            Width="700"
+                            Height="35"
+                            Background="#3dDDC2"
+                            Margin="150,0,0,0"
+                            CornerRadius="20">
+                    </Border>
+                    <Border Width="700"
+                            Height="35"
+                            Background="#FC6586"
+                            Margin="0,15,0,0"
+                            CornerRadius="20"/>
+                    <Border Width="700"
+                            Height="35"
+                            Background="#383660"
+                            Margin="65,15,0,0"
+                            CornerRadius="20">
+                    </Border>-->
+        <!--
+
+                </StackPanel>-->
+
+        <!--</StackPanel>-->
+        <!--</Grid>-->
+        <!--#endregion-->
+
+    </Grid>
+
+</Window>

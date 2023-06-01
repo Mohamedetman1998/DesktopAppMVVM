@@ -1,0 +1,176 @@
+C:\Users\moham\OneDrive\Desktop\New folder\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\MVVMTASK.csproj.AssemblyReference.cache
+C:\Users\moham\OneDrive\Desktop\New folder\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\Styles\Button.baml
+C:\Users\moham\OneDrive\Desktop\New folder\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\Styles\Image.baml
+C:\Users\moham\OneDrive\Desktop\New folder\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\Styles\Page.baml
+C:\Users\moham\OneDrive\Desktop\New folder\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\Styles\Text.baml
+C:\Users\moham\OneDrive\Desktop\New folder\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\Snake.g.cs
+C:\Users\moham\OneDrive\Desktop\New folder\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\Tetris.g.cs
+C:\Users\moham\OneDrive\Desktop\New folder\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\View\DonutSpinner.g.cs
+C:\Users\moham\OneDrive\Desktop\New folder\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\View\Entry.g.cs
+C:\Users\moham\OneDrive\Desktop\New folder\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\View\Game.g.cs
+C:\Users\moham\OneDrive\Desktop\New folder\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\View\Home.g.cs
+C:\Users\moham\OneDrive\Desktop\New folder\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\View\MainWindow.g.cs
+C:\Users\moham\OneDrive\Desktop\New folder\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\View\SubjectDetailsWindow.g.cs
+C:\Users\moham\OneDrive\Desktop\New folder\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\View\SubjectView.g.cs
+C:\Users\moham\OneDrive\Desktop\New folder\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\View\Teacher.g.cs
+C:\Users\moham\OneDrive\Desktop\New folder\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\View\TeacherAddWindow.g.cs
+C:\Users\moham\OneDrive\Desktop\New folder\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\XO.g.cs
+C:\Users\moham\OneDrive\Desktop\New folder\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\moham\OneDrive\Desktop\New folder\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\moham\OneDrive\Desktop\New folder\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\MVVMTASK_MarkupCompile.cache
+C:\Users\moham\OneDrive\Desktop\New folder\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\MVVMTASK_MarkupCompile.lref
+C:\Users\moham\OneDrive\Desktop\New folder\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\MVVMTASK.exe
+C:\Users\moham\OneDrive\Desktop\New folder\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\MVVMTASK.deps.json
+C:\Users\moham\OneDrive\Desktop\New folder\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\MVVMTASK.runtimeconfig.json
+C:\Users\moham\OneDrive\Desktop\New folder\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\MVVMTASK.dll
+C:\Users\moham\OneDrive\Desktop\New folder\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\MVVMTASK.pdb
+C:\Users\moham\OneDrive\Desktop\New folder\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\ControlzEx.dll
+C:\Users\moham\OneDrive\Desktop\New folder\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\MahApps.Metro.dll
+C:\Users\moham\OneDrive\Desktop\New folder\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.BootstrapIcons.dll
+C:\Users\moham\OneDrive\Desktop\New folder\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.BoxIcons.dll
+C:\Users\moham\OneDrive\Desktop\New folder\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Codicons.dll
+C:\Users\moham\OneDrive\Desktop\New folder\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Coolicons.dll
+C:\Users\moham\OneDrive\Desktop\New folder\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Core.dll
+C:\Users\moham\OneDrive\Desktop\New folder\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Entypo.dll
+C:\Users\moham\OneDrive\Desktop\New folder\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.EvaIcons.dll
+C:\Users\moham\OneDrive\Desktop\New folder\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.FeatherIcons.dll
+C:\Users\moham\OneDrive\Desktop\New folder\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.FileIcons.dll
+C:\Users\moham\OneDrive\Desktop\New folder\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.FontAwesome.dll
+C:\Users\moham\OneDrive\Desktop\New folder\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Fontaudio.dll
+C:\Users\moham\OneDrive\Desktop\New folder\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Fontisto.dll
+C:\Users\moham\OneDrive\Desktop\New folder\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.ForkAwesome.dll
+C:\Users\moham\OneDrive\Desktop\New folder\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Ionicons.dll
+C:\Users\moham\OneDrive\Desktop\New folder\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.JamIcons.dll
+C:\Users\moham\OneDrive\Desktop\New folder\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Material.dll
+C:\Users\moham\OneDrive\Desktop\New folder\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.MaterialDesign.dll
+C:\Users\moham\OneDrive\Desktop\New folder\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.MaterialLight.dll
+C:\Users\moham\OneDrive\Desktop\New folder\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Microns.dll
+C:\Users\moham\OneDrive\Desktop\New folder\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Modern.dll
+C:\Users\moham\OneDrive\Desktop\New folder\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Octicons.dll
+C:\Users\moham\OneDrive\Desktop\New folder\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.PicolIcons.dll
+C:\Users\moham\OneDrive\Desktop\New folder\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.PixelartIcons.dll
+C:\Users\moham\OneDrive\Desktop\New folder\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.RPGAwesome.dll
+C:\Users\moham\OneDrive\Desktop\New folder\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.RadixIcons.dll
+C:\Users\moham\OneDrive\Desktop\New folder\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.RemixIcon.dll
+C:\Users\moham\OneDrive\Desktop\New folder\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.SimpleIcons.dll
+C:\Users\moham\OneDrive\Desktop\New folder\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Typicons.dll
+C:\Users\moham\OneDrive\Desktop\New folder\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Unicons.dll
+C:\Users\moham\OneDrive\Desktop\New folder\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.VaadinIcons.dll
+C:\Users\moham\OneDrive\Desktop\New folder\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.WeatherIcons.dll
+C:\Users\moham\OneDrive\Desktop\New folder\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Zondicons.dll
+C:\Users\moham\OneDrive\Desktop\New folder\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.dll
+C:\Users\moham\OneDrive\Desktop\New folder\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\moham\OneDrive\Desktop\New folder\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\de\MahApps.Metro.resources.dll
+C:\Users\moham\OneDrive\Desktop\New folder\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\App.baml
+C:\Users\moham\OneDrive\Desktop\New folder\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\Snake.baml
+C:\Users\moham\OneDrive\Desktop\New folder\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\Tetris.baml
+C:\Users\moham\OneDrive\Desktop\New folder\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\Utilities\DataTemplate.baml
+C:\Users\moham\OneDrive\Desktop\New folder\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\View\DonutSpinner.baml
+C:\Users\moham\OneDrive\Desktop\New folder\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\View\Entry.baml
+C:\Users\moham\OneDrive\Desktop\New folder\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\View\Game.baml
+C:\Users\moham\OneDrive\Desktop\New folder\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\View\Home.baml
+C:\Users\moham\OneDrive\Desktop\New folder\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\View\MainWindow.baml
+C:\Users\moham\OneDrive\Desktop\New folder\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\View\SubjectDetailsWindow.baml
+C:\Users\moham\OneDrive\Desktop\New folder\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\View\SubjectView.baml
+C:\Users\moham\OneDrive\Desktop\New folder\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\View\Teacher.baml
+C:\Users\moham\OneDrive\Desktop\New folder\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\View\TeacherAddWindow.baml
+C:\Users\moham\OneDrive\Desktop\New folder\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\XO.baml
+C:\Users\moham\OneDrive\Desktop\New folder\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\MVVMTASK.g.resources
+C:\Users\moham\OneDrive\Desktop\New folder\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\MVVMTASK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moham\OneDrive\Desktop\New folder\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\MVVMTASK.AssemblyInfoInputs.cache
+C:\Users\moham\OneDrive\Desktop\New folder\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\MVVMTASK.AssemblyInfo.cs
+C:\Users\moham\OneDrive\Desktop\New folder\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\MVVMTASK.csproj.CoreCompileInputs.cache
+C:\Users\moham\OneDrive\Desktop\New folder\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\MVVMTASK.csproj.CopyComplete
+C:\Users\moham\OneDrive\Desktop\New folder\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\MVVMTASK.dll
+C:\Users\moham\OneDrive\Desktop\New folder\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\refint\MVVMTASK.dll
+C:\Users\moham\OneDrive\Desktop\New folder\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\MVVMTASK.pdb
+C:\Users\moham\OneDrive\Desktop\New folder\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\MVVMTASK.genruntimeconfig.cache
+C:\Users\moham\OneDrive\Desktop\New folder\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\ref\MVVMTASK.dll
+C:\Users\moham\OneDrive\Desktop\MVVM\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\MVVMTASK.csproj.AssemblyReference.cache
+C:\Users\moham\OneDrive\Desktop\MVVM\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\Styles\Button.baml
+C:\Users\moham\OneDrive\Desktop\MVVM\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\Styles\Image.baml
+C:\Users\moham\OneDrive\Desktop\MVVM\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\Styles\Page.baml
+C:\Users\moham\OneDrive\Desktop\MVVM\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\Styles\Text.baml
+C:\Users\moham\OneDrive\Desktop\MVVM\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\Snake.g.cs
+C:\Users\moham\OneDrive\Desktop\MVVM\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\Tetris.g.cs
+C:\Users\moham\OneDrive\Desktop\MVVM\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\View\DonutSpinner.g.cs
+C:\Users\moham\OneDrive\Desktop\MVVM\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\View\Entry.g.cs
+C:\Users\moham\OneDrive\Desktop\MVVM\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\View\Game.g.cs
+C:\Users\moham\OneDrive\Desktop\MVVM\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\View\Home.g.cs
+C:\Users\moham\OneDrive\Desktop\MVVM\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\View\MainWindow.g.cs
+C:\Users\moham\OneDrive\Desktop\MVVM\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\View\SubjectDetailsWindow.g.cs
+C:\Users\moham\OneDrive\Desktop\MVVM\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\View\SubjectView.g.cs
+C:\Users\moham\OneDrive\Desktop\MVVM\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\View\Teacher.g.cs
+C:\Users\moham\OneDrive\Desktop\MVVM\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\View\TeacherAddWindow.g.cs
+C:\Users\moham\OneDrive\Desktop\MVVM\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\XO.g.cs
+C:\Users\moham\OneDrive\Desktop\MVVM\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\moham\OneDrive\Desktop\MVVM\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\moham\OneDrive\Desktop\MVVM\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\MVVMTASK_MarkupCompile.cache
+C:\Users\moham\OneDrive\Desktop\MVVM\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\MVVMTASK_MarkupCompile.lref
+C:\Users\moham\OneDrive\Desktop\MVVM\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\MVVMTASK.dll
+C:\Users\moham\OneDrive\Desktop\MVVM\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\refint\MVVMTASK.dll
+C:\Users\moham\OneDrive\Desktop\MVVM\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\MVVMTASK.pdb
+C:\Users\moham\OneDrive\Desktop\MVVM\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\MVVMTASK.exe
+C:\Users\moham\OneDrive\Desktop\MVVM\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\MVVMTASK.deps.json
+C:\Users\moham\OneDrive\Desktop\MVVM\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\MVVMTASK.runtimeconfig.json
+C:\Users\moham\OneDrive\Desktop\MVVM\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\MVVMTASK.dll
+C:\Users\moham\OneDrive\Desktop\MVVM\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\MVVMTASK.pdb
+C:\Users\moham\OneDrive\Desktop\MVVM\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\ControlzEx.dll
+C:\Users\moham\OneDrive\Desktop\MVVM\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\MahApps.Metro.dll
+C:\Users\moham\OneDrive\Desktop\MVVM\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.BootstrapIcons.dll
+C:\Users\moham\OneDrive\Desktop\MVVM\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.BoxIcons.dll
+C:\Users\moham\OneDrive\Desktop\MVVM\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Codicons.dll
+C:\Users\moham\OneDrive\Desktop\MVVM\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Coolicons.dll
+C:\Users\moham\OneDrive\Desktop\MVVM\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Core.dll
+C:\Users\moham\OneDrive\Desktop\MVVM\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Entypo.dll
+C:\Users\moham\OneDrive\Desktop\MVVM\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.EvaIcons.dll
+C:\Users\moham\OneDrive\Desktop\MVVM\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.FeatherIcons.dll
+C:\Users\moham\OneDrive\Desktop\MVVM\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.FileIcons.dll
+C:\Users\moham\OneDrive\Desktop\MVVM\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.FontAwesome.dll
+C:\Users\moham\OneDrive\Desktop\MVVM\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Fontaudio.dll
+C:\Users\moham\OneDrive\Desktop\MVVM\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Fontisto.dll
+C:\Users\moham\OneDrive\Desktop\MVVM\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.ForkAwesome.dll
+C:\Users\moham\OneDrive\Desktop\MVVM\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Ionicons.dll
+C:\Users\moham\OneDrive\Desktop\MVVM\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.JamIcons.dll
+C:\Users\moham\OneDrive\Desktop\MVVM\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Material.dll
+C:\Users\moham\OneDrive\Desktop\MVVM\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.MaterialDesign.dll
+C:\Users\moham\OneDrive\Desktop\MVVM\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.MaterialLight.dll
+C:\Users\moham\OneDrive\Desktop\MVVM\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Microns.dll
+C:\Users\moham\OneDrive\Desktop\MVVM\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Modern.dll
+C:\Users\moham\OneDrive\Desktop\MVVM\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Octicons.dll
+C:\Users\moham\OneDrive\Desktop\MVVM\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.PicolIcons.dll
+C:\Users\moham\OneDrive\Desktop\MVVM\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.PixelartIcons.dll
+C:\Users\moham\OneDrive\Desktop\MVVM\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.RPGAwesome.dll
+C:\Users\moham\OneDrive\Desktop\MVVM\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.RadixIcons.dll
+C:\Users\moham\OneDrive\Desktop\MVVM\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.RemixIcon.dll
+C:\Users\moham\OneDrive\Desktop\MVVM\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.SimpleIcons.dll
+C:\Users\moham\OneDrive\Desktop\MVVM\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Typicons.dll
+C:\Users\moham\OneDrive\Desktop\MVVM\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Unicons.dll
+C:\Users\moham\OneDrive\Desktop\MVVM\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.VaadinIcons.dll
+C:\Users\moham\OneDrive\Desktop\MVVM\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.WeatherIcons.dll
+C:\Users\moham\OneDrive\Desktop\MVVM\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Zondicons.dll
+C:\Users\moham\OneDrive\Desktop\MVVM\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.dll
+C:\Users\moham\OneDrive\Desktop\MVVM\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\moham\OneDrive\Desktop\MVVM\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\de\MahApps.Metro.resources.dll
+C:\Users\moham\OneDrive\Desktop\MVVM\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\App.baml
+C:\Users\moham\OneDrive\Desktop\MVVM\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\Snake.baml
+C:\Users\moham\OneDrive\Desktop\MVVM\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\Tetris.baml
+C:\Users\moham\OneDrive\Desktop\MVVM\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\Utilities\DataTemplate.baml
+C:\Users\moham\OneDrive\Desktop\MVVM\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\View\DonutSpinner.baml
+C:\Users\moham\OneDrive\Desktop\MVVM\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\View\Entry.baml
+C:\Users\moham\OneDrive\Desktop\MVVM\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\View\Game.baml
+C:\Users\moham\OneDrive\Desktop\MVVM\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\View\Home.baml
+C:\Users\moham\OneDrive\Desktop\MVVM\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\View\MainWindow.baml
+C:\Users\moham\OneDrive\Desktop\MVVM\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\View\SubjectDetailsWindow.baml
+C:\Users\moham\OneDrive\Desktop\MVVM\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\View\SubjectView.baml
+C:\Users\moham\OneDrive\Desktop\MVVM\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\View\Teacher.baml
+C:\Users\moham\OneDrive\Desktop\MVVM\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\View\TeacherAddWindow.baml
+C:\Users\moham\OneDrive\Desktop\MVVM\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\XO.baml
+C:\Users\moham\OneDrive\Desktop\MVVM\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\MVVMTASK.g.resources
+C:\Users\moham\OneDrive\Desktop\MVVM\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\MVVMTASK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moham\OneDrive\Desktop\MVVM\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\MVVMTASK.AssemblyInfoInputs.cache
+C:\Users\moham\OneDrive\Desktop\MVVM\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\MVVMTASK.AssemblyInfo.cs
+C:\Users\moham\OneDrive\Desktop\MVVM\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\MVVMTASK.csproj.CoreCompileInputs.cache
+C:\Users\moham\OneDrive\Desktop\MVVM\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\MVVMTASK.csproj.CopyComplete
+C:\Users\moham\OneDrive\Desktop\MVVM\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\MVVMTASK.genruntimeconfig.cache
+C:\Users\moham\OneDrive\Desktop\MVVM\Page-Navigation-using-MVVM-main\Source Code\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\ref\MVVMTASK.dll
